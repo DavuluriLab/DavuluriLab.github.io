@@ -1,5 +1,5 @@
 - title: "Computational identification of promoters and first exons in the human genome"
-  image: 1.png
+  image: 
   description: 
   authors: Davuluri RV, Grosse I, Zhang MQ
   link:
@@ -9,7 +9,7 @@
   
   
 - title: "AGRIS: Arabidopsis gene regulatory information server, an information resource of Arabidopsis cis-regulatory elements and transcription factors"
-  image: 2.png
+  image: 
   description: 
   authors: Davuluri RV, Sun H, Palaniswamy SK, Matthews N, Molina C, Kurtz M, Grotewold E
   link:
@@ -19,7 +19,7 @@
   
   
 - title: "Single-nucleotide polymorphisms inside microRNA target sites influence tumor susceptibility"
-  image: 3.png
+  image: 
   description: 
   authors: Nicoloso MS, Sun H, Spizzo R, Kim H, Wickramasinghe P, Shimizu M, Wojcik SE, Ferdin J, Kunej T, Xiao L, Manoukian S, Secreto G, Ravagnani F, Wang X, Radice P, Croce CM, Davuluri RV, Calin GA
   link:
@@ -29,7 +29,7 @@
   
   
 - title: "The functional consequences of alternative promoter use in mammalian genomes"
-  image: 4.png
+  image: 
   description: 
   authors: Davuluri RV, Suzuki Y, Sugano S, Plass C, Huang TH
   link:
@@ -39,7 +39,7 @@
   
   
 - title: "AGRIS and AtRegNet"
-  image: 5.png
+  image: 
   description: 
   authors: Palaniswamy SK, James S, Sun H, Lamb RS, Davuluri RV, Grotewold E
   link:
@@ -49,7 +49,7 @@
   
   
 - title: "ADAR1 forms a complex with Dicer to promote microRNA processing and RNA-induced gene silencing"
-  image: 6.png
+  image: 
   description: 
   authors: Ota H, Sakurai M, Gupta R, Valente L, Wulff BE, Ariyoshi K, Iizasa H, Davuluri RV, Nishikura K
   link:
@@ -59,7 +59,7 @@
   
   
 - title: "CART classification of human 5' UTR sequences"
-  image: 7.png
+  image: 
   description: 
   authors: Davuluri RV, Suzuki Y, Sugano S, Zhang MQ
   link:
@@ -69,7 +69,7 @@
   
   
 - title: "Alternative transcription exceeds alternative splicing in generating the transcriptome diversity of cerebellar development"
-  image: 8.png
+  image: 
   description: 
   authors: Pal S, Gupta R, Kim H, Wickramasinghe P, Baubet V, Showe LC, Dahmane N, Davuluri RV
   link:
@@ -79,7 +79,7 @@
   
   
 - title: "Epigenetic profiling in chronic lymphocytic leukemia reveals novel methylation targets"
-  image: 9.png
+  image: 
   description: 
   authors: Rush LJ, Raval A, Funchain P, Johnson AJ, Smith L, Lucas DM, Bembea M, Liu TH, Heerema NA, Rassenti L, Liyanarachchi S, Davuluri R, Byrd JC, Plass C
   link:
@@ -89,7 +89,7 @@
   
   
 - title: "Alternative transcription and alternative splicing in cancer"
-  image: 10.png
+  image: 
   description: 
   authors: Pal S, Gupta R, Davuluri RV
   link:
@@ -99,7 +99,7 @@
   
   
 - title: "Identifying estrogen receptor alpha target genes using integrated computational genomics and chromatin immunoprecipitation microarray"
-  image: 11.png
+  image: 
   description: 
   authors: Jin VX, Leu YW, Liyanarachchi S, Sun H, Fan M, Nephew KP, Huang TH, Davuluri RV
   link:
@@ -109,7 +109,7 @@
   
   
 - title: "Genome-wide analysis of core promoter elements from conserved human and mouse orthologous pairs"
-  image: 12.png
+  image: 
   description: 
   authors: Jin VX, Singer GA, Agosto-Pérez FJ, Liyanarachchi S, Davuluri RV
   link:
@@ -119,7 +119,7 @@
   
   
 - title: "An integrative ChIP-chip and gene expression profiling to model SMAD regulatory modules"
-  image: 13.png
+  image: 
   description: 
   authors: Qin H, Chan MW, Liyanarachchi S, Balch C, Potter D, Souriraj IJ, Cheng AS, Agosto-Perez FJ, Nikonova EV, Yan PS, Lin HJ, Nephew KP, Saltz JH, Showe LC, Huang TH, Davuluri RV
   link:
@@ -129,7 +129,7 @@
   
   
 - title: "FTO-Dependent N6-Methyladenosine Modifications Inhibit Ovarian Cancer Stem Cell Self-Renewal by Blocking cAMP Signaling"
-  image: 14.png
+  image: 
   description: 
   authors: Huang H, Wang Y, Kandpal M, Zhao G, Cardenas H, Ji Y, Chaparala A, Tanner EJ, Chen J, Davuluri RV, Matei D
   link:
@@ -139,7 +139,7 @@
   
   
 - title: "Immune landscapes associated with different glioblastoma molecular subtypes"
-  image: 15.png
+  image: 
   description: 
   authors: Martinez-Lage M, Lynch TM, Bi Y, Cocito C, Way GP, Pal S, Haller J, Yan RE, Ziober A, Nguyen A, Kandpal M, O'Rourke DM, Greenfield JP, Greene CS, Davuluri RV, Dahmane N
   link:
@@ -149,7 +149,7 @@
   
   
 - title: "Isoform-level gene signature improves prognostic stratification and accurately classifies glioblastoma subtypes"
-  image: 16.png
+  image: 
   description: 
   authors: Pal S, Bi Y, Macyszyn L, Showe LC, O'Rourke DM, Davuluri RV
   link:
@@ -159,7 +159,7 @@
   
   
 - title: "Isoform level expression profiles provide better cancer signatures than gene level expression profiles"
-  image: 17.png
+  image: 
   description: 
   authors: Zhang Z, Pal S, Bi Y, Tchou J, Davuluri RV
   link:
@@ -169,7 +169,7 @@
   
   
 - title: "MPromDb: an integrated resource for annotation and visualization of mammalian gene promoters and ChIP-chip experimental data"
-  image: 18.png
+  image: 6.png
   description: We present a database of mammalian promoters that are experimentally supported with experimentally known TF-binding sites and ChIP-chip data.
   authors: Sun H, Palaniswamy SK, Pohar TT, Jin VX, Huang TH, Davuluri RV
   link:
@@ -179,7 +179,7 @@
   
   
 - title: "Genome-wide analysis of alternative promoters of human genes using a custom promoter tiling array"
-  image: 19.png
+  image: 
   description: 
   authors: Singer GA, Wu J, Yan P, Plass C, Huang TH, Davuluri RV
   link:
@@ -189,7 +189,7 @@
   
   
 - title: "Genome-wide mapping of RNA Pol-II promoter usage in mouse tissues by ChIP-seq"
-  image: 20.png
+  image: 
   description: 
   authors: Sun H, Wu J, Wickramasinghe P, Pal S, Gupta R, Bhattacharyya A, Agosto-Perez FJ, Showe LC, Huang TH, Davuluri RV
   link:
@@ -199,7 +199,7 @@
   
   
 - title: "ExTraMapper: Exon- and Transcript-level mappings for orthologous gene pairs"
-  image: 21.png
+  image: 1.png
   description: We describe a new method, ExTraMapper, which extracts fine-scale mappings between the exons and transcripts of a given pair of ortholog genes between two organisms using sequence conservation between the two genomes and their gene annotations.
   authors: Chakraborty A, Ay F, Davuluri RV
   link:
@@ -209,7 +209,7 @@
   
   
 - title: "DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome"
-  image: 22.png
+  image: 2.png
   description: We adapted the idea of Bidirectional Encoder Representations from Transformers (BERT) model to genomic DNA setting and developed a deep learning method called DNABERT.
   authors: Ji Y, Zhou Z, Liu H, Davuluri RV
   link:
@@ -219,7 +219,7 @@
   
   
 - title: "Isoform-level gene signature improves prognostic stratification and accurately classifies glioblastoma subtypes"
-  image: 23.png
+  image: 3.png
   description: We designed a platform-independent isoform-level gene-expression based classification system (PIGExClass) that would allow us transfer the gene-signature developed on a high-dimensional platform to a clinically adaptable low-dimensional platform.
   authors: Pal S, Bi Y, Macyszyn L, Showe LC, O'Rourke DM, Davuluri RV
   link:
@@ -229,7 +229,7 @@
   
   
 - title: "NPEBseq: nonparametric empirical bayesian-based procedure for differential expression analysis of RNA-seq data"
-  image: 24.png
+  image: 4.png
   description: We developed a novel method to model the RNA-seq data and detect differentially expressed genes and exons across different conditions. The method is compared with the other popular methods for RNA-seq DE analysis, both using simulated and real RNA-seq datasets.
   authors: Bi Y, Davuluri RV
   link:
@@ -239,7 +239,7 @@
   
   
 - title: "IsoformEx: isoform level gene expression estimation using weighted non-negative least squares from mRNA-Seq data"
-  image: 25.png
+  image: 5.png
   description: We present a novel method, called IsoformEx, which is based on weighted non-negative least squares and compared IsoformEx with some of the published methods in accurately estimating the expression levels of transcript isoforms.
   authors: Kim H, Bi Y, Pal S, Gupta R, Davuluri RV
   link:
