@@ -1,16 +1,216 @@
-- title: "ExTraMapper: Exon- and Transcript-level mappings for orthologous gene pairs"
+- title: "Computational identification of promoters and first exons in the human genome"
   image: 1.png
   description: 
+  authors: Davuluri RV, Grosse I, Zhang MQ
+  link:
+    url: https://www.nature.com/articles/ng780z
+    display: Nat Genet 2001 Dec;29(4):412-7
+  highlight: 0
+  
+  
+- title: "AGRIS: Arabidopsis gene regulatory information server, an information resource of Arabidopsis cis-regulatory elements and transcription factors"
+  image: 2.png
+  description: 
+  authors: Davuluri RV, Sun H, Palaniswamy SK, Matthews N, Molina C, Kurtz M, Grotewold E
+  link:
+    url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-4-25
+    display: BMC Bioinformatics 2003 Jun 23;4:25
+  highlight: 0
+  
+  
+- title: "Single-nucleotide polymorphisms inside microRNA target sites influence tumor susceptibility"
+  image: 3.png
+  description: 
+  authors: Nicoloso MS, Sun H, Spizzo R, Kim H, Wickramasinghe P, Shimizu M, Wojcik SE, Ferdin J, Kunej T, Xiao L, Manoukian S, Secreto G, Ravagnani F, Wang X, Radice P, Croce CM, Davuluri RV, Calin GA
+  link:
+    url: https://aacrjournals.org/cancerres/article/70/7/2789/561160/Single-Nucleotide-Polymorphisms-Inside-MicroRNA
+    display: Cancer Res 2010 Apr 1;70(7):2789-98
+  highlight: 0
+  
+  
+- title: "The functional consequences of alternative promoter use in mammalian genomes"
+  image: 4.png
+  description: 
+  authors: Davuluri RV, Suzuki Y, Sugano S, Plass C, Huang TH
+  link:
+    url: https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S0168952508000590?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0168952508000590%3Fshowall%3Dtrue&referrer=https:%2F%2Fpubmed.ncbi.nlm.nih.gov%2F
+    display: Trends Genet 2008 Apr;24(4):167-77
+  highlight: 0
+  
+  
+- title: "AGRIS and AtRegNet"
+  image: 5.png
+  description: 
+  authors: Palaniswamy SK, James S, Sun H, Lamb RS, Davuluri RV, Grotewold E
+  link:
+    url: https://academic.oup.com/plphys/article/140/3/818/6103063?login=true
+    display: a platform to link cis-regulatory elements and transcription factors into regulatory networks Plant Physiol
+  highlight:  2006 Mar;140(3):818-29
+  
+  
+- title: "ADAR1 forms a complex with Dicer to promote microRNA processing and RNA-induced gene silencing"
+  image: 6.png
+  description: 
+  authors: Ota H, Sakurai M, Gupta R, Valente L, Wulff BE, Ariyoshi K, Iizasa H, Davuluri RV, Nishikura K
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0092867413003462?via%3Dihub
+    display: Cell 2013 Apr 25;153(3):575-89
+  highlight: 0
+  
+  
+- title: "CART classification of human 5' UTR sequences"
+  image: 7.png
+  description: 
+  authors: Davuluri RV, Suzuki Y, Sugano S, Zhang MQ
+  link:
+    url: https://genome.cshlp.org/content/10/11/1807.long
+    display: Genome Res 2000 Nov;10(11):1807-16
+  highlight: 0
+  
+  
+- title: "Alternative transcription exceeds alternative splicing in generating the transcriptome diversity of cerebellar development"
+  image: 8.png
+  description: 
+  authors: Pal S, Gupta R, Kim H, Wickramasinghe P, Baubet V, Showe LC, Dahmane N, Davuluri RV
+  link:
+    url: https://genome.cshlp.org/content/21/8/1260.long
+    display: Genome Res 2011 Aug;21(8):1260-72
+  highlight: 0
+  
+  
+- title: "Epigenetic profiling in chronic lymphocytic leukemia reveals novel methylation targets"
+  image: 9.png
+  description: 
+  authors: Rush LJ, Raval A, Funchain P, Johnson AJ, Smith L, Lucas DM, Bembea M, Liu TH, Heerema NA, Rassenti L, Liyanarachchi S, Davuluri R, Byrd JC, Plass C
+  link:
+    url: https://aacrjournals.org/cancerres/article/64/7/2424/512516/Epigenetic-Profiling-in-Chronic-Lymphocytic
+    display: Cancer Res 2004 Apr 1;64(7):2424-33
+  highlight: 0
+  
+  
+- title: "Alternative transcription and alternative splicing in cancer"
+  image: 10.png
+  description: 
+  authors: Pal S, Gupta R, Davuluri RV
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0163725812001660?via%3Dihub
+    display: Pharmacol Ther 2012 Dec;136(3):283-94
+  highlight:  doi: 10
+  
+  
+- title: "Identifying estrogen receptor alpha target genes using integrated computational genomics and chromatin immunoprecipitation microarray"
+  image: 11.png
+  description: 
+  authors: Jin VX, Leu YW, Liyanarachchi S, Sun H, Fan M, Nephew KP, Huang TH, Davuluri RV
+  link:
+    url: https://academic.oup.com/nar/article/32/22/6627/2375631?login=true
+    display: Nucleic Acids Res 2004 Dec 17;32(22):6627-35
+  highlight: 0
+  
+  
+- title: "Genome-wide analysis of core promoter elements from conserved human and mouse orthologous pairs"
+  image: 12.png
+  description: 
+  authors: Jin VX, Singer GA, Agosto-Pérez FJ, Liyanarachchi S, Davuluri RV
+  link:
+    url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-114
+    display: BMC Bioinformatics 2006 Mar 7;7:114
+  highlight: 0
+  
+  
+- title: "An integrative ChIP-chip and gene expression profiling to model SMAD regulatory modules"
+  image: 13.png
+  description: 
+  authors: Qin H, Chan MW, Liyanarachchi S, Balch C, Potter D, Souriraj IJ, Cheng AS, Agosto-Perez FJ, Nikonova EV, Yan PS, Lin HJ, Nephew KP, Saltz JH, Showe LC, Huang TH, Davuluri RV
+  link:
+    url: https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-3-73
+    display: BMC Syst Biol 2009 Jul 17;3:73
+  highlight: 0
+  
+  
+- title: "FTO-Dependent N6-Methyladenosine Modifications Inhibit Ovarian Cancer Stem Cell Self-Renewal by Blocking cAMP Signaling"
+  image: 14.png
+  description: 
+  authors: Huang H, Wang Y, Kandpal M, Zhao G, Cardenas H, Ji Y, Chaparala A, Tanner EJ, Chen J, Davuluri RV, Matei D
+  link:
+    url: https://aacrjournals.org/cancerres/article/80/16/3200/645409/FTO-Dependent-N6-Methyladenosine-Modifications
+    display: Cancer Res 2020 Aug 15;80(16):3200-3214
+  highlight: 0
+  
+  
+- title: "Immune landscapes associated with different glioblastoma molecular subtypes"
+  image: 15.png
+  description: 
+  authors: Martinez-Lage M, Lynch TM, Bi Y, Cocito C, Way GP, Pal S, Haller J, Yan RE, Ziober A, Nguyen A, Kandpal M, O'Rourke DM, Greenfield JP, Greene CS, Davuluri RV, Dahmane N
+  link:
+    url: https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-019-0803-6
+    display: Acta Neuropathol Commun 2019 Nov 29;7(1):203
+  highlight: 0
+  
+  
+- title: "Isoform-level gene signature improves prognostic stratification and accurately classifies glioblastoma subtypes"
+  image: 16.png
+  description: 
+  authors: Pal S, Bi Y, Macyszyn L, Showe LC, O'Rourke DM, Davuluri RV
+  link:
+    url: https://academic.oup.com/nar/article/42/8/e64/1068506?login=true
+    display: Nucleic Acids Res 2014 Apr;42(8):e64
+  highlight: 0
+  
+  
+- title: "Isoform level expression profiles provide better cancer signatures than gene level expression profiles"
+  image: 17.png
+  description: 
+  authors: Zhang Z, Pal S, Bi Y, Tchou J, Davuluri RV
+  link:
+    url: https://genomemedicine.biomedcentral.com/articles/10.1186/gm437
+    display: Genome Med 2013 Apr 17;5(4):33
+  highlight: 0
+  
+  
+- title: "MPromDb: an integrated resource for annotation and visualization of mammalian gene promoters and ChIP-chip experimental data"
+  image: 18.png
+  description: We present a database of mammalian promoters that are experimentally supported with experimentally known TF-binding sites and ChIP-chip data.
+  authors: Sun H, Palaniswamy SK, Pohar TT, Jin VX, Huang TH, Davuluri RV
+  link:
+    url: https://academic.oup.com/nar/article/34/suppl_1/D98/1133303?login=true
+    display: Nucleic Acids Res 2006 Jan 1;34(Database issue):D98-103
+  highlight: 1
+  
+  
+- title: "Genome-wide analysis of alternative promoters of human genes using a custom promoter tiling array"
+  image: 19.png
+  description: 
+  authors: Singer GA, Wu J, Yan P, Plass C, Huang TH, Davuluri RV
+  link:
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-9-349
+    display: BMC Genomics 2008 Jul 25;9:349
+  highlight: 0
+  
+  
+- title: "Genome-wide mapping of RNA Pol-II promoter usage in mouse tissues by ChIP-seq"
+  image: 20.png
+  description: 
+  authors: Sun H, Wu J, Wickramasinghe P, Pal S, Gupta R, Bhattacharyya A, Agosto-Perez FJ, Showe LC, Huang TH, Davuluri RV
+  link:
+    url: https://academic.oup.com/nar/article/39/1/190/2409650?login=true
+    display: Nucleic Acids Res 2011 Jan;39(1):190-201
+  highlight: 0
+  
+  
+- title: "ExTraMapper: Exon- and Transcript-level mappings for orthologous gene pairs"
+  image: 21.png
+  description: We describe a new method, ExTraMapper, which extracts fine-scale mappings between the exons and transcripts of a given pair of ortholog genes between two organisms using sequence conservation between the two genomes and their gene annotations.
   authors: Chakraborty A, Ay F, Davuluri RV
   link:
     url: https://academic.oup.com/bioinformatics/article/37/20/3412/6278896?login=true
     display: Bioinformatics 2021 May 20;37(20):3412–20
-  highlight: 1
+  highlight:  doi: 10
   
   
 - title: "DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome"
-  image: 2.png
-  description: 
+  image: 22.png
+  description: We adapted the idea of Bidirectional Encoder Representations from Transformers (BERT) model to genomic DNA setting and developed a deep learning method called DNABERT.
   authors: Ji Y, Zhou Z, Liu H, Davuluri RV
   link:
     url: https://academic.oup.com/bioinformatics/article/37/15/2112/6128680?login=true
@@ -19,8 +219,8 @@
   
   
 - title: "Isoform-level gene signature improves prognostic stratification and accurately classifies glioblastoma subtypes"
-  image: 3.png
-  description: 
+  image: 23.png
+  description: We designed a platform-independent isoform-level gene-expression based classification system (PIGExClass) that would allow us transfer the gene-signature developed on a high-dimensional platform to a clinically adaptable low-dimensional platform.
   authors: Pal S, Bi Y, Macyszyn L, Showe LC, O'Rourke DM, Davuluri RV
   link:
     url: https://academic.oup.com/nar/article/42/8/e64/1068506?login=true
@@ -29,8 +229,8 @@
   
   
 - title: "NPEBseq: nonparametric empirical bayesian-based procedure for differential expression analysis of RNA-seq data"
-  image: 4.png
-  description: 
+  image: 24.png
+  description: We developed a novel method to model the RNA-seq data and detect differentially expressed genes and exons across different conditions. The method is compared with the other popular methods for RNA-seq DE analysis, both using simulated and real RNA-seq datasets.
   authors: Bi Y, Davuluri RV
   link:
     url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-262
@@ -39,11 +239,12 @@
   
   
 - title: "IsoformEx: isoform level gene expression estimation using weighted non-negative least squares from mRNA-Seq data"
-  image: 5.png
-  description: 
+  image: 25.png
+  description: We present a novel method, called IsoformEx, which is based on weighted non-negative least squares and compared IsoformEx with some of the published methods in accurately estimating the expression levels of transcript isoforms.
   authors: Kim H, Bi Y, Pal S, Gupta R, Davuluri RV
   link:
     url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-305
     display: BMC Bioinformatics 2011 Jul 27;12:305
   highlight: 1
   
+ 
