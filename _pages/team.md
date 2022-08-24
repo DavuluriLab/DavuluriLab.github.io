@@ -24,7 +24,7 @@ Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate stud
 {% endif %}
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4><a href= "{{ member.website }}">{{ member.name }}</a></h4>
   <i>{{ member.info1 }} <br> {{member.info2}} <br> {{member.info3}} <br><b>Email: </b>{{ member.email }}</i>
   <ul style="overflow: hidden">
