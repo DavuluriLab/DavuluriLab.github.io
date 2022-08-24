@@ -1,0 +1,135 @@
+- name: Yanrong(Jerry) Ji
+  photo: jerry.jpg
+  info: Ph.D. in BioMedical Informatics, Oct. 2017 –  May. 2021
+  email: yanrongji2021@u.northwestern.edu
+  current_position: Analytics Advisor, Clinical Trial Services at CVS Health
+  link: https://www.linkedin.com/in/jerryji1993/
+  number_educ: 3
+
+- name: Manoj Kandpal
+  photo: kandpal.jpg
+  info: Res. Asst Professor, Department of Surgery, NUFSM, Mar. 2014 – June 2020
+  email: kandpal@northwestern.edu 
+  current_position: Director of Research Bioinformatics, Hospital Administration, Rockefeller University
+  link: https://www.linkedin.com/in/mk0401/
+  number_educ: 1
+
+- name: Mathew Dapas
+  info: PhD Student, Bioinformatics Track, Mar. 2015 – Mar. 2019
+  current_position: Postdoctoral Fellow, University of Chicago, IL
+  link: https://www.linkedin.com/in/matthew-dapas-903aba1b/
+  number_educ: 1
+
+- name: Sudesh Pundir
+  info: Postdoctoral Fellow, Jan. 2018 – Jan. 2019,
+  current_position: Assistant Professor (From Pondicherry University, India)
+  link: "#"
+  number_educ: 1
+
+- name: Arunima Shilpi
+  info: Postdoctoral Fellow, Dec. 2016 – Dec. 2018
+  current_position: Bioinformatics Scientist at National Institute of Health, MD, Bethesda
+  link: "#"
+  number_educ: 1
+
+- name: Yingtao Bi
+  info: Postdoctoral Fellow, Oct. 2009 - Mar. 2017
+  current_position: Director of Bioinformatics, AbbVie, MA
+  link: https://www.linkedin.com/in/yingtao-bi-55a0a512/
+  number_educ: 1
+
+- name: HongJian Jin
+  info: Postdoctoral Fellow, Aug. 2014 – Aug. 2017
+  current_position: Research Assistant Professor, St Judes Children’s Research Hospital, Memphis
+  link: https://www.linkedin.com/in/hongjianjin/
+  number_educ: 1
+
+- name: Segun Jung
+  info: Postdoctoral Fellow, Nov. 2013 – Dec. 2015
+  current_position: Associate Director, R&D and Clinical Bioinformatics, NeoGenomics Laboratories, CA
+  link: https://www.linkedin.com/in/segunjung/
+  number_educ: 1
+
+- name: Auditi Debroy
+  info: Postdoctoral Fellow
+  current_position: In the Davuluri Lab Oct. 2014 – Sept. 2015 , now Associate Director at Bristol-Myers Squibb (Immuno-Oncology)
+  link: https://www.linkedin.com/in/auditidebroy/
+  number_educ: 1
+
+- name: Ferhat Ay
+  info: Postdoctoral Fellow, Mar. 2015 – Dec. 2015
+  current_position: Institute Leadership Associate Professor of Computational Biology, La Jolla Institute for Allergy and Immunology, San Diego, CA. 
+  link: https://www.lji.org/labs/ay/
+  number_educ: 1
+
+- name: Ravi Gupta
+  info: Postdoctoral Fellow, Jul. 2008 - Feb. 2012
+  current_position: VP of Bioinformatics, MedGenome Labs, India 
+  link: https://www.linkedin.com/in/raavigupta/
+  number_educ: 1
+  
+- name: Sharmistha Pal
+  info: Postdoctoral Fellow, Sep. 2008 - Feb. 2013
+  current_position: Senior Scientist, Haas-Kogan Lab, Dana Farber Cancer Institute, Harvard University, Boston, MA
+  link: https://www.linkedin.com/in/sharmistha-pal-3877bb15/
+  number_educ: 1
+
+- name: Madhu Bhattacharjee
+  info: Postdoctoral Fellow, Nov. 2009 - Apr. 2010
+  current_position: Associate Professor, University of Hyderabad, Hyderabad, India. 
+  link: "#"
+  number_educ: 1
+
+- name: Murali Bashyam
+  info: Postdoctoral Fellow, Jan. 2013 - Jun. 2013.
+  current_position: Group Head (PI) of Laboratory of Molecular Oncology, Centre for DNA Fingerprinting and Diagnostics (CDFD), Hyderabad, India
+  link: "https://www.linkedin.com/in/murali-bashyam-35461511/"
+  number_educ: 1
+
+- name: Hyunsoo Kim
+  info: Postdoctoral Fellow, May 2009 - Aug. 2011
+  current_position: Assistant Professor,  Div. of Biomedical Informatics, School of Medicine, University of Alabama, Birmingham 
+  link: "#"
+  number_educ: 1
+
+- name: Zhongfa (Jacob) Zhang
+  info: Postdoctoral Fellow, Oct. 2010 - Mar. 2012
+  current_position: Bioinformatics Scientist, Millennium Pharmaceuticals, Cambridge, MA
+  link: "#"
+  number_educ: 1
+
+- name: Priyankara Wikramasinghe
+  info: Postdoctoral Fellow, May. 2006 - Apr. 2008
+  current_position: Associate Wistar Scientist, The Wistar Institute, Philadelphia, PA. 
+  link: "#"
+  number_educ: 1
+
+- name: Anirban Bhattacharya
+  info: Postdoctoral Fellow, Nov. 2007 - May, 2010
+  current_position: Chief Scientist (Scalable Systems and Machine Learning) at Bashpole Inc., Philadelphia, PA 
+  link: "#"
+  number_educ: 1
+
+- name: Hao Sun
+  info: Postdoctoral Fellow, April 2002-Dec. 2003
+  current_position: Full Professor, Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong, Hong Kong 
+  link: "#"
+  number_educ: 1
+
+- name: Gregory Singer
+  info: Postdoctoral Fellow, May 2004 - Apr. 2008
+  current_position: Director of Research Grants at Ryerson University. 
+  link: "#"
+  number_educ: 1
+
+- name: Huaxia Qin
+  info: Postdoctoral Fellow, Sep. 2005 - Sep.2007
+  current_position: Statistician, JP Morgan Chase Bank & Co., Columbus, OH
+  link: "#"
+  number_educ: 1
+
+- name: Victor Jin
+  info: Postdoctoral Fellow, Apr. 2003 - Nov. 2005,
+  current_position: Full Professor of Bioinformatics, Dept of Molecular Medicine, University of Texas, San Antonio, TX. 
+  link: "#"
+  number_educ: 1

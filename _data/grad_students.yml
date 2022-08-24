@@ -1,0 +1,30 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Rekha Sathian
+  photo: rekha.jpeg
+  info: Graduate Student, started Oct 2021
+  email: rekha.sathian@stonybrook.edu 
+  number_educ: 2
+  education1: MS in Bioinformatics,Union Christian College, India, 2013
+  education2: BS in Zoology, St. Xaviers College, India, 2011
+  website: "https://www.linkedin.com/in/rekha-sathian-3905a9140/"
+
+
+- name: Pallavi Surana
+  photo: pallavi1.jpg
+  info: Graduate Student, started July 2021
+  email: pallavi.surana@stonybrook.edu
+  number_educ: 2
+  education1: MS Bioinformatics and Genomics, Penn State, USA, 2020
+  education2: BE Biotechnology, RVCE, India, 2019
+  website: "https://sites.google.com/view/pallavisurana/home?authuser=0"
+
+
