@@ -11,8 +11,6 @@ permalink: /publications/
 
 ## Group highlights
 
-### This page will update soon.
-
 (For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=X0saPWYAAAAJ), [DBLP](https://dblp.org/pid/55/2246.html))
 
 {% assign number_printed = 0 %}
@@ -53,10 +51,6 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
-## Patents
-<em>Ramana V. Davuluri, Sharmistha Pal, Yingtao Bi, Louise C. Showe, Donald M. O'rourke, Luke Macyszyn</em><br /> Methods and compositions for diagnosis of glioblastoma or a subtype thereof <br /> <a href="https://patents.google.com/patent/WO2014165753A1/en">US10113201B2 (2018)</a>
-
 ## Full List of publications
 
 {% for publi in site.data.publist %}
@@ -65,3 +59,6 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+## Patents
+<em>Ramana V. Davuluri, Sharmistha Pal, Yingtao Bi, Louise C. Showe, Donald M. O'rourke, Luke Macyszyn</em><br /> Methods and compositions for diagnosis of glioblastoma or a subtype thereof <br /> <a href="https://patents.google.com/patent/WO2014165753A1/en">US10113201B2 (2018)</a>
