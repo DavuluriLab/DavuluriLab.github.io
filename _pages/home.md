@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [The Department of Biomedical Informatics, Stony Brook Medicine](https://bmi.stonybrookmedicine.edu/). The central hypothesis of our research is that the isoform-level gene products “transcript variants” and “protein isoforms” are the basic functional units in the mammalian cell, and accordingly, the informatics platforms – ranging from basic molecular biology data management systems to the biomarker and therapeutic drug target discovery for precision medicine – should adapt “gene isoform centric” rather than “gene centric” approaches. 
+We are a dynamic research group at the [The Department of Biomedical Informatics, Stony Brook University](https://bmi.stonybrookmedicine.edu/). The central hypothesis of our research is that the isoform-level gene products “transcript variants” and “protein isoforms” are the basic functional units in the mammalian cell, and accordingly, the informatics platforms – ranging from basic molecular biology data management systems to the biomarker and therapeutic drug target discovery for precision medicine – should adapt “gene isoform centric” rather than “gene centric” approaches. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
