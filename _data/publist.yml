@@ -95,7 +95,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0163725812001660?via%3Dihub
     display: Pharmacol Ther 2012 Dec;136(3):283-94
-  highlight:  doi: 10
+  highlight: 0
   
   
 - title: "Identifying estrogen receptor alpha target genes using integrated computational genomics and chromatin immunoprecipitation microarray"
@@ -205,7 +205,7 @@
   link:
     url: https://academic.oup.com/bioinformatics/article/37/20/3412/6278896?login=true
     display: Bioinformatics 2021 May 20;37(20):3412–20
-  highlight:  doi: 10
+  highlight: 1
   
   
 - title: "DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome"
