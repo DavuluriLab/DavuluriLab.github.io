@@ -1,16 +1,16 @@
-- name: Ramana V. Davuluri
-  photo: Ramana.jpeg
-  info: Professor, Department of Biomedical Informatics, MART 7M-0814, Stony Brook.
-  email: Ramana.Davuluri@stonybrookmedicine.edu
-  number_educ: 3
-  education1: Scientific Director, Bioinformatics Shared Resource, Stony Brook Cancer Center
-  education2: Affiliated Faculty, Institute for AI-Driven Discovery and Innovation
+- name: Anooshka Pendyal
+  photo: Anooshka.jpg
+  info: CSIRE student, June 2022 - Aug 2022
+  email: apendyal.edu@gmail.com
+  number_educ: 1
+  education1:  11th grade student at Deep Run High School in Richmond, VA
+  website: "#"
 
 
-- name: Pratik Dutta, PhD
-  photo: Pratik.jpg
-  info: Postdoctoral Fellow, started Oct 2019
-  email: Pratik.Dutta@stonybrook.edu 
-  number_educ: 3
-  education1: PhD with <a href="https://www.iitp.ac.in/~sriparna/index.html">Sriparna Saha, PhD</a>, IIT Patna
-  Website: https://duttaprat.github.io/
+- name: Isabella Wu
+  photo: isabella.jpg
+  info: CSIRE student, Started June 2022
+  email: pallavi.surana@stonybrook.edu
+  number_educ: 1
+  education1: Current 11th-grade student at Choate Rosemary Hall in Wallingford, CT
+  website: "#"
