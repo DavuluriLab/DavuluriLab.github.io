@@ -75,12 +75,10 @@ We are located at Stony Brook University Hospital which is in connection with th
 
 
 ### Funding
-We are grateful for funding from the [National Library of Medicine](https://www.nlm.nih.gov/), the [National Cancer Institute](https://www.cancer.gov/), the [National Institute on Aging](https://www.nia.nih.gov/), and many more.
+We are grateful for R01 funding from the [National Institute of Health](https://www.nih.gov/) and many more.
 
 <figure class="third">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIH.png" style="width: 200px">  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NLM.jpg" style="width: 200px">
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIA.jpg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NCI.jpg" style="width: 200px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIH.png" style="width: 200px"> 
 </figure>
 
 
