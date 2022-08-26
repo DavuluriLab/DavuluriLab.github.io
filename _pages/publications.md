@@ -60,3 +60,4 @@ permalink: /publications/
 
 ## Patents
 <em>Ramana V. Davuluri, Sharmistha Pal, Yingtao Bi, Louise C. Showe, Donald M. O'rourke, Luke Macyszyn</em><br /> Methods and compositions for diagnosis of glioblastoma or a subtype thereof <br /> <a href="https://patents.google.com/patent/WO2014165753A1/en">US10113201B2 (2018)</a>
+<em>Milena Nicoloso, George Calin, Hao Sun, Ramana Davuluri</em><br /> Diagnositic Methods of Tumor Susceptibility With Nucleotide Polymorphisms Inside MicroRNA Target Sites <br /> <a href="https://patents.google.com/patent/US20120322069A1/en">US20120322069A1 (2012)</a>
