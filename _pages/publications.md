@@ -9,8 +9,6 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=X0saPWYAAAAJ), [DBLP](https://dblp.org/pid/55/2246.html))
-
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
@@ -49,7 +47,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Full List of publications
+## Publications
 
 {% for publi in site.data.publist %}
 
@@ -57,6 +55,8 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=X0saPWYAAAAJ), [DBLP](https://dblp.org/pid/55/2246.html))
 
 ## Patents
 
