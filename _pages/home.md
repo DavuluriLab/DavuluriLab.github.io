@@ -7,13 +7,15 @@ permalink: /
 ---
 
 <div style="text-align: justify">
-We are a dynamic group of Data Scientists in [The Department of Biomedical Informatics, Stony Brook University](https://bmi.stonybrookmedicine.edu/). Our research program builds on the foundations in Statistics, Machine Learning, Discovery Genomics and more recently application of Deep-Learning algorithms to the complex problems in Cancer Data Science, particularly for integrative analyses of transcriptome, epigenome and other molecular data. The central hypothesis of our research is that the isoform-level gene products “transcript variants” and “protein isoforms” are the basic functional units in the mammalian cell, and accordingly, the informatics platforms – ranging from basic molecular biology data management systems to the biomarker and therapeutic drug target discovery for precision medicine – should adapt “gene isoform centric” rather than “gene centric” approaches.
+We are a dynamic group of Data Scientists in [The Department of Biomedical Informatics, Stony Brook University](https://bmi.stonybrookmedicine.edu/). Our research program builds on the foundations in Statistics, Machine Learning, Discovery Genomics and more recently application of Deep-Learning algorithms to the complex problems in Cancer Data Science, particularly for integrative analyses of transcriptome, epigenome and other molecular data. The central hypothesis of our research is that the isoform-level gene products “transcript variants” and “protein isoforms” are the basic functional units in the mammalian cell, and accordingly, the informatics platforms – ranging from basic molecular biology data management systems to the biomarker and therapeutic drug target discovery for precision medicine – should adapt “gene isoform centric” rather than “gene centric” approaches. To this end, we are developing novel informatics methods focused on understanding gene-regulation at isoform-level in normal and disease conditions (see [Research](research)).
+
 
  
 
-To this end, we develop novel informatics methods focused on understanding genomics(see [Research](research)).
+We are located in The MART Building, which is connected to the Stony Brook Cancer Center and Stony Book Hospital.
 
-We are located at Stony Brook University Hospital which is in connection with the University. 
+
+
 
 </div>
 
@@ -63,7 +65,22 @@ We are located at Stony Brook University Hospital which is in connection with th
 
 ### Collaborators
 <!-- We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard. -->
+<div style="text-align: justify">
+We closely work with numerous collaborators. The colloborators who are associated with Stony Brook University and Stony Brook Cancer Center are [Yusuf Hannun](https://www.stonybrook.edu/commcms/biochem/research/_faculty/hannun/#ResearchDescription), [Chiara Luberto](https://cancer.stonybrookmedicine.edu/tlc/investigators/luberto), [Joel Saltz](https://bmi.stonybrookmedicine.edu/people/joel_saltz), [Prateek Prasanna](https://you.stonybrook.edu/imaginelab/), Tahsin Kurc, Shao-Jun Tang, Jennifer Williams
 
+ </div>
+
+Outside SBU
+
+Han Liu lab at NU, Evanston
+
+Daniela Matie Lab at NUfSM, Chicago
+
+Ken Nephew Lab at Indiana Cancer Center
+
+George Calin at MD Anderson CC
+
+Patricia Thompson at Cedar Cinai CC
 
 ### Joining Davuluri Lab
  **We are always looking for passionate new PhD students, Postdocs, and Master students to join the team. If you are interested in joining please go to the [openings]({{ site.url }}{{ site.baseurl }}/vacancies) page !!!** 
