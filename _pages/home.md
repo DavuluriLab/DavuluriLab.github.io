@@ -66,13 +66,7 @@ We are located in The MART Building, which is connected to the Stony Brook Cance
 ### Collaborators
 <!-- We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard. -->
 <div style="text-align: justify">
-We closely work with numerous collaborators. The colloborators who are associated with Stony Brook University and Stony Brook Cancer Center are [Yusuf Hannun](https://www.stonybrook.edu/commcms/biochem/research/_faculty/hannun/#ResearchDescription), [Chiara Luberto](https://cancer.stonybrookmedicine.edu/tlc/investigators/luberto), [Joel Saltz](https://bmi.stonybrookmedicine.edu/people/joel_saltz), [Prateek Prasanna](https://you.stonybrook.edu/imaginelab/), [Tahsin Kurc](https://bmi.stonybrookmedicine.edu/people/tahsin_kurc), [Shao-Jun Tang](https://renaissance.stonybrookmedicine.edu/anesthesiology/faculty/tang) and [Jennifer Williams](https://cancer.stonybrookmedicine.edu/CancerResearch/Programs/OncogenicDrivers/Williams)
-
- </div>
-
-Outside SBU
-
-Han Liu lab at NU, Evanston
+We closely work with numerous collaborators. The colloborators who are associated with Stony Brook University and Stony Brook Cancer Center are [Yusuf Hannun](https://www.stonybrook.edu/commcms/biochem/research/_faculty/hannun/#ResearchDescription), [Chiara Luberto](https://cancer.stonybrookmedicine.edu/tlc/investigators/luberto), [Joel Saltz](https://bmi.stonybrookmedicine.edu/people/joel_saltz), [Prateek Prasanna](https://you.stonybrook.edu/imaginelab/), [Tahsin Kurc](https://bmi.stonybrookmedicine.edu/people/tahsin_kurc), [Shao-Jun Tang](https://renaissance.stonybrookmedicine.edu/anesthesiology/faculty/tang) and [Jennifer Williams](https://cancer.stonybrookmedicine.edu/CancerResearch/Programs/OncogenicDrivers/Williams). We also work with a lot collaborators outside Stony Brook University, including Han Liu lab at NU, Evanston
 
 Daniela Matie Lab at NUfSM, Chicago
 
@@ -81,6 +75,11 @@ Ken Nephew Lab at Indiana Cancer Center
 George Calin at MD Anderson CC
 
 Patricia Thompson at Cedar Cinai CC
+
+
+ </div>
+
+
 
 ### Joining Davuluri Lab
  **We are always looking for passionate new PhD students, Postdocs, and Master students to join the team. If you are interested in joining please go to the [openings]({{ site.url }}{{ site.baseurl }}/vacancies) page !!!** 
