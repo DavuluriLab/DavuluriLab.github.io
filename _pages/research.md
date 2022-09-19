@@ -21,7 +21,7 @@ Our research is focused on developing statistical machine learning based algorit
 
 
 ## Viral DNABERT: A robust BERT model for SARS-Cov2 and other virus strains
-### [Code will available soon]()
+### [Code will be available soon]()
 **Pratik Dutta, Zhihan Zhou**
 <div style="text-align: justify">
 Our group used the existing DNABERT model and science and applied it to virus strains (in collaboration with [Dr Han Liu, Department of Computer Science, Northwestern University](http://magics.cs.northwestern.edu/index.html)).
@@ -29,7 +29,7 @@ Our group used the existing DNABERT model and science and applied it to virus st
 ----
 
 ## DeepMOIS-MC: Deep Multi-Omics Integration by Learning Correlation-Maximizing for Cancer Subtyping
-### [Code will available soon]()
+### [Code will be available soon]()
 **Yanrong Ji, Pratik Dutta**
 <div style="text-align: justify">
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/DEEPMOIS.png){: style="width: 35%; float: left; margin-right: 30px; border: 10px"} 
@@ -51,7 +51,7 @@ Understanding the hidden instructions within genome on gene regulation is crucia
 ### [Code](https://github.com/RDavuluri-Lab-SUNY-STONYBROOK/ExTraMapper)
 **Abhijit Chakraborthy, Ferhat Ay**
 <div style="text-align: justify">
-![]({{ site.url }}{{ site.baseurl }}/images/respic/extramapper.jpeg){: style="width: 35%; float: left; margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/1.png){: style="width: 35%; float: left; margin-right: 30px; border: 10px"}
 Access to large-scale genomics and transcriptomics data from various tissues and cell lines allowed the discovery of wide-spread alternative splicing events and alternative promoter usage in mammalians. Between human and mouse, gene-level orthology is currently present for nearly 16k protein-coding genes spanning a diverse repertoire of over 200k total transcript isoforms. We developed a novel tool, ExTraMapper, Exon and Transcript-level Mappings of a given pair of orthologous genes between two organisms leveraging sequence conservation between exons of a pair of organisms and produces a fine-scale orthology mapping at the exon and then transcript level. ExTraMapper identifies more than 350k exon mappings, as well as 30k transcript mappings between human and mouse using only sequence and gene annotation information. The tool identifies a larger number of exon and transcript mappings compared to previous methods. Further, it identifies exon fusions, splits and losses due to splice site mutations, and finds mappings between microexons that were previously missed. By reanalysis of RNA-seq data from 13 matched human and mouse tissues, we show that ExTraMapper improves the correlation of transcript-specific expression levels suggesting a more accurate mapping of human and mouse transcripts.
 </div>
 
