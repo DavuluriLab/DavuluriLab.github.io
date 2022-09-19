@@ -14,7 +14,7 @@ permalink: /vacancies
 
 We are always looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+You will have the chance to work on the grand challenges of language models, multi-omics data, exon- and transcript-level mappings and isoform-level gene expression and regulation. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
 
 ### Applications for PhD and Postdoc positions
