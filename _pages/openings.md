@@ -26,7 +26,7 @@ If you are interested in working with us as a PhD student or Postdoc, please sen
 If you are a Masters student in BMI, CS, AMS or related departments at Stony Brook University or other university, looking for a Masters project, contact me (or any group member) per email or stop by my office on the 7th Floor, The MART Building.
 
 ### Bsc / Master students from elsewhere
-If you are interested in pursuing a Masters degree in BMI at Stony Brook University, see [BMI, Stony Brook Medicine](https://bmi.stonybrookmedicine.edu/).
+If you are interested in pursuing a Masters degree in BMI at Stony Brook University, see [BMI, Stony Brook University](https://bmi.stonybrookmedicine.edu/).
 
 
 <!-- <figure>
