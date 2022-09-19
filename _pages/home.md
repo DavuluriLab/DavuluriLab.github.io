@@ -7,7 +7,14 @@ permalink: /
 ---
 
 <div style="text-align: justify">
-We are a dynamic research group at the [The Department of Biomedical Informatics, Stony Brook University](https://bmi.stonybrookmedicine.edu/). The central hypothesis of our research is that the isoform-level gene products “transcript variants” and “protein isoforms” are the basic functional units in the mammalian cell, and accordingly, the informatics platforms – ranging from basic molecular biology data management systems to the biomarker and therapeutic drug target discovery for precision medicine – should adapt “gene isoform centric” rather than “gene centric” approaches. 
+We are a dynamic group of Data Scientists in [The Department of Biomedical Informatics, Stony Brook University](https://bmi.stonybrookmedicine.edu/). Our research program builds on the foundations in Statistics, Machine Learning, Discovery Genomics and more recently application of Deep-Learning algorithms to the complex problems in Cancer Data Science, particularly for integrative analyses of transcriptome, epigenome and other molecular data. The central hypothesis of our research is that the isoform-level gene products “transcript variants” and “protein isoforms” are the basic functional units in the mammalian cell, and accordingly, the informatics platforms – ranging from basic molecular biology data management systems to the biomarker and therapeutic drug target discovery for precision medicine – should adapt “gene isoform centric” rather than “gene centric” approaches.
+
+ 
+
+To this end, we develop novel informatics methods focused on understanding genomics(see [Research](research)).
+
+We are located at Stony Brook University Hospital which is in connection with the University. 
+
 </div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -51,11 +58,6 @@ We are a dynamic research group at the [The Department of Biomedical Informatics
 
 
 
-<div style="text-align: justify">
-To this end, we develop novel informatics methods focused on understanding genomics(see [Research](research)).
-
-We are located at Stony Brook University Hospital which is in connection with the University. This collaborative space promotes direct contact with 
-</div>
 
 
 
