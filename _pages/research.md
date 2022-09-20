@@ -61,7 +61,7 @@ Access to large-scale genomics and transcriptomics data from various tissues and
 ## Platform-independent Isoform-level Gene Signatures for Stratification of Cancer Patients into Molecular Subgroups
 **Sharmishtha Pal, Yingtao Bi, Arunima Shilpi, Yanrong Ji, Manoj Kandpal**
 <div style="text-align: justify">
-![]({{ site.url }}{{ site.baseurl }}/images/respic/pigex.jpg){: style="width: 25%; float: left; margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/pigex.jpg){: style="width: 18%; float: left; margin-right: 30px; border: 10px"}
 Based on recent studies from Our group and others, significant expression differences were observed between different sample groups (e.g., developmental stages, cancer subtypes, normal vs cancer) for numerous genes at the isoform-level but not at the overall gene-level. We investigated whether the isoform-level transcriptome changes could provide better patient stratification in terms of overall prognosis and classification accuracy. His group developed novel methods, by integrating data discretization, feature selection, and meta-classification algorithms, for derivation of platform-independent gene signature for multi-label molecular stratification of cancer patients, from exon-array and RNA-seq data. The application of these algorithms has led to the development of new methods for diagnosis of glioblastoma and ovarian serous carcinoma among others, and the investigation of alternative splicing on drug-target gene interactions. 
 </div>
 ---- 
