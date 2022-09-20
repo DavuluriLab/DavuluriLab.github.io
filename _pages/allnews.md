@@ -18,6 +18,6 @@ permalink: /allnews.html
 
 <ul style="overflow: hidden">
   {% for article in site.data.news %}
-  <li>{{ article.date }} <i>{{ article.headline | markdownify}}</i> </li>
+  <li><b>{{ article.date }}</b> <i>{{ article.headline | markdownify}}</i> </li>
   {% endfor %}
 </ul>
