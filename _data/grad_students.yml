@@ -8,6 +8,14 @@
 #  education3:
 #  education4:
 
+- name:  Nimisha Papineni
+  photo: nimisha1.jpeg
+  info: Started from August 2022
+  email: nimisha.papineni@stonybrook.edu
+  number_educ: 1
+  education1: Integrated Masters in Statistics, Pondicherry Central University, 2022
+  website: "https://www.linkedin.com/in/papineni-nimisha-42b344155/"
+
 - name: Rekha Sathian
   photo: rekha.jpeg
   info: Started Oct 2021
