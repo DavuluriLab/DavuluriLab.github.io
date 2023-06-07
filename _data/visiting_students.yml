@@ -1,6 +1,14 @@
+- name:  Chirayush Patel 
+  photo: chirayush.jpg
+  info: Research Project Assistant, June 2023 - Present
+  email: chirayush.patel@stonybrook.edu 
+  number_educ: 1
+  education1: Pursuing MS in Computer science, Stony Brook University 
+  website: "https://www.linkedin.com/in/chirayush-patel-baa776110/"
+
 - name:  Sankara Sai Sumanth Kota
   photo: Sumanth.jpeg
-  info: Research Project Assistant, Dec 2022 - Present
+  info: Research Project Assistant, Dec 2022 - May 2023
   email: sankarasaisum.kota@stonybrook.edu
   number_educ: 1
   education1: Pursuing MS in Computer science, Stony Brook University 
@@ -8,7 +16,7 @@
 
 - name:  Jayendra Kantipudi
   photo: Jayendra.png
-  info: Research Project Assistant, Nov 2022 - Present
+  info: Research Project Assistant, Nov 2022 - May 2023
   email: jayendra.kantipudi@stonybrook.edu
   number_educ: 1
   education1: Pursuing MS in Computer science, Stony Brook University 
@@ -16,7 +24,7 @@
 
 - name:  Roshan Reddy Yedla
   photo: Roshan.jpg
-  info: Research Project Assistant, Nov 2022 - Present
+  info: Research Project Assistant, Nov 2022 - May 2023
   email: roshanreddy.yedla@stonybrook.edu
   number_educ: 1
   education1: Pursuing MS in Computer science, Stony Brook University 
@@ -24,7 +32,7 @@
 
 - name:  Matthew Obusan
   photo: obusan.jpg
-  info: Rotational Student, June 2022 - Aug 2022
+  info: Rotational Student, June 2022 - Present
   email: matthew.obusan@stonybrookmedicine.edu
   number_educ: 1
   education1: MD Ph.D. Student, Renaissance School of Medicine 
