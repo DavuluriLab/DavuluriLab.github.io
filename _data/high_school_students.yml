@@ -1,3 +1,19 @@
+- name: Andy Lu
+  photo: Andy.jpg
+  info: CSIRE student, June 2023 - Aug 2023
+  email: andylu.newyork@gmail.com
+  number_educ: 1
+  education1:  10th grade student, Ward Melville High School, NY
+  website: "#"
+
+- name: Sripriya Challal
+  photo: 
+  info: CSIRE student, June 2023 - Aug 2023
+  email: Sripriya.Challa@gmail.com
+  number_educ: 1
+  education1:  Union County Vocational-Technical Schools
+  website: "#"
+  
 - name: Anooshka Pendyal
   photo: Anooshka.jpg
   info: CSIRE student, June 2022 - Aug 2022
