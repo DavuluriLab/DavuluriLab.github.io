@@ -7,6 +7,21 @@
 #  education2:
 #  education3:
 #  education4:
+- name:  Max Longhao Chao
+  photo: Max.png
+  info: Started from August 2023
+  email: max.chao@stonybrook.edu
+  number_educ: 1
+  education1: MS Computational Biology, Weill Cornell, 2023 
+  website: "https://www.linkedin.com/in/max-chao-2ba244b4/"
+
+- name:  Matthew Obusan
+  photo: obusan.jpg
+  info: Started from August 2023
+  email: matthew.obusan@stonybrookmedicine.edu
+  number_educ: 1
+  education1: MD Ph.D. Student, Renaissance School of Medicine 
+  website: "https://www.linkedin.com/in/matthew-obusan/"
 
 - name:  Nimisha Papineni
   photo: nimisha1.jpeg
