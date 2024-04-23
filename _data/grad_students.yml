@@ -8,11 +8,12 @@
 #  education3:
 #  education4:
 - name:  Max Longhao Chao
-  photo: Max.png
+  photo: max.png
   info: Started from August 2023
   email: max.chao@stonybrook.edu
   number_educ: 1
-  education1: MS Computational Biology, Weill Cornell, 2023 
+  education1: MS Computational Biology, Weill Cornell, 2023
+  education2: BS Bioengineering, Cornell, 2018
   website: "https://www.linkedin.com/in/max-chao-2ba244b4/"
 
 - name:  Matthew Obusan
