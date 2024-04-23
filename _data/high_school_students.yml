@@ -1,32 +1,8 @@
-- name: Andy Lu
-  photo: Andy.jpg
-  info: CSIRE student, June 2023 - Aug 2023
-  email: andylu.newyork@gmail.com
-  number_educ: 1
-  education1:  10th grade student, Ward Melville High School, NY
-  website: "#"
-
 - name: Sripriya Challal
-  photo: 
+  photo: Sripriya.jpg
   info: CSIRE student, June 2023 - Aug 2023
   email: Sripriya.Challa@gmail.com
   number_educ: 1
   education1:  12th grade student, UCVTS in Union County, NJ
   website: "#"
   
-- name: Anooshka Pendyal
-  photo: Anooshka.jpg
-  info: CSIRE student, June 2022 - Aug 2022
-  email: apendyal.edu@gmail.com
-  number_educ: 1
-  education1:  11th grade student, Deep Run High School in Richmond, VA
-  website: "#"
-
-
-- name: Isabella Wu
-  photo: isabella.jpg
-  info: CSIRE student, June 2022 - Aug 2022
-  email: wu24@choate.edu
-  number_educ: 1
-  education1: 11th-grade student, Choate Rosemary Hall in Wallingford, CT
-  website: "#"
