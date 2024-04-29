@@ -1,3 +1,11 @@
+- name:  Margalit Mitzner
+  photo: Margalit.jpg
+  info: Rotational Student, April 2024 - Present
+  email: Margalit.mitzner@stonybrookmedicine.edu
+  number_educ: 1
+  education1: MD Ph.D. Student, Renaissance School of Medicine 
+  
+  <! --
 - name:  Naheel Khatri
   photo: naheel.png
   info: Rotational Student, Jun 2023 - Present
@@ -13,7 +21,7 @@
   number_educ: 1
   education1: Pursuing MS in Computer Engineering, Stony Brook University 
   website: "https://www.linkedin.com/in/chirayush-patel-baa776110/"
-
+ -->
 
 
 
